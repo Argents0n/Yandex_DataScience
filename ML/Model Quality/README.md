@@ -13,13 +13,8 @@
 ### Основные технологии
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
-![SHAP](https://img.shields.io/badge/SHAP-%23013243.svg?style=for-the-badge&logo=python&logoColor=white)  
-![PHIK](https://img.shields.io/badge/PHIK-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![SHAP](https://img.shields.io/badge/SHAP-%23013243.svg?style=for-the-badge&logo=python&logoColor=white) ![PHIK](https://img.shields.io/badge/PHIK-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### Алгоритмы машинного обучения
